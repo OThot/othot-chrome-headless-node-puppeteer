@@ -4,7 +4,7 @@
 
 Chrome Headless NodeJS Docker image for running unit tests connected to Chrome with Puppeteer
 
-Docker image bundled with all binaries required by [Google Chrome Headless]((https://developers.google.com/web/updates/2017/04/headless-chrome)), [NodeJS](https://nodejs.org/)(node: 8) and [git](https://git-scm.com).
+Docker image bundled with all binaries required by [Google Chrome Headless]((https://developers.google.com/web/updates/2017/04/headless-chrome)), [NodeJS](https://nodejs.org/)(node: 16) and [git](https://git-scm.com).
 
 # License
 
